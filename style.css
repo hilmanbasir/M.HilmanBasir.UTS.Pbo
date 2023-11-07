@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+#uangInput {
+    width: 100px;
+}
+
+#hitungButton {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#hasil {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.judul {
+    align-items: center;
+}
